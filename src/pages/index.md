@@ -6,6 +6,14 @@ sections:
     type: section_hero
     title: Welcome to La Verne's Blog.
     content: Follow my blog and keep updated!
+    actions:
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        icon_class: lorem-ipsum
+        new_window: false
+        no_follow: false
+        type: action
   - section_id: about
     type: section_content
     title: About
