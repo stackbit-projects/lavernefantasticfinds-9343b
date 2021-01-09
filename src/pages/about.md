@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: This is a short page about me and my work.
+subtitle: La Verne's Fantastic Finds
 img_path: images/nervous-yam.jpg
 img_alt: Portrait of a man with beard and mustache
 template: page
