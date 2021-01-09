@@ -4,7 +4,7 @@ excerpt: >-
   Operating a Consignment store during a world wide pandemic is not an easy
   thing to do. 
 date: '2019-03-24'
-thumb_img_path: images/post1.jpg
+thumb_img_path: images/pexels-pixabay-267399.jpg
 thumb_img_alt: care bear snow globe
 content_img_path: images/purple-wallaby.jpg
 content_img_alt: snow globe
