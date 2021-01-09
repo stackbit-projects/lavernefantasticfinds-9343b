@@ -11,7 +11,7 @@ sections:
         url: 'https://www.lavsfantasticfinds.ca/'
         style: button
         icon_class: Online Store
-        new_window: false
+        new_window: true
         no_follow: false
         type: action
   - section_id: about
