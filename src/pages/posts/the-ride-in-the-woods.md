@@ -8,6 +8,7 @@ thumb_img_alt: thank you message
 content_img_path: images/scientific-goose.png
 content_img_alt: logo
 template: post
+canonical_url: welcome
 ---
 
 After 35 years in retail I decided that it was time for me to be my own boss.  I had considered retirement....that lasted a few months and then I was just restless. 
