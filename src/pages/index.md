@@ -8,7 +8,7 @@ sections:
     content: Follow my blog and keep updated!
     actions:
       - label: Online Store
-        url: lorem-ipsum
+        url: 'https://www.lavsfantasticfinds.ca/'
         style: link
         icon_class: lorem-ipsum
         new_window: false
