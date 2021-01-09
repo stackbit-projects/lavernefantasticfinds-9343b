@@ -78,7 +78,7 @@
                 "style": "link",
                 "icon_class": "lorem-ipsum",
                 "new_window": true,
-                "no_follow": false,
+                "no_follow": true,
                 "type": "action"
             }
         ]
