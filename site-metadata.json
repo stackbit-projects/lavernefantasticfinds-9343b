@@ -63,7 +63,7 @@
             {
                 "label": "Facebook",
                 "url": "https://www.facebook.com/lavsfantasticfinds/",
-                "style": "link",
+                "style": "icon",
                 "icon_class": "lorem-ipsum",
                 "new_window": false,
                 "no_follow": false,
