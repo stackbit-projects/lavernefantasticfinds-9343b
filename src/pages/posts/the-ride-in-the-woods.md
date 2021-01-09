@@ -7,7 +7,7 @@ excerpt: >-
 date: '2020-12-20'
 thumb_img_path: images/violet-oregano.png
 thumb_img_alt: logo
-content_img_path: images/magical-pine.jpg
+content_img_path: images/scientific-goose.png
 content_img_alt: A motorcycle in a forest
 template: post
 ---
