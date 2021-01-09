@@ -8,7 +8,7 @@ excerpt: >-
 date: '2020-12-20'
 thumb_img_path: images/knowledgeable-stegosaurus.jpg
 thumb_img_alt: facebook
-content_img_path: images/8.jpg
+content_img_path: images/pleasant-squid.jpg
 content_img_alt: Hikers on the trail
 template: post
 ---
