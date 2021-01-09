@@ -1,6 +1,6 @@
 ---
 title: Welcome to the world of consignment and cool things.
-subtitle: A cautionary tale about riding
+subtitle: ''
 excerpt: ' After 35 years in retail I decided that it was time for me to be my own boss.  I had considered retirement....that lasted a few months and then I was just restless. '
 date: '2020-12-20'
 thumb_img_path: images/post2.jpeg
