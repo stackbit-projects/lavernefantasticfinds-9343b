@@ -7,7 +7,7 @@ excerpt: >-
   between rooms and indoor and outdoor space.
 date: '2019-03-24'
 thumb_img_path: images/post1.jpg
-thumb_img_alt: Fushimi Inari Shrine in Kyoto
+thumb_img_alt: care bear snow globe
 content_img_path: images/2.jpg
 content_img_alt: Fushimi Inari Shrine in Kyoto
 template: post
