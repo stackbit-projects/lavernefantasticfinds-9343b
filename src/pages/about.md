@@ -5,13 +5,11 @@ img_path: images/nervous-yam.jpg
 img_alt: Portrait of a man with beard and mustache
 template: page
 ---
-
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
-
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+I love finding treasures!
+Everything from clothing to vintage items and collectibles. I want to share the wonderful items I find with my customers and if there is something you'd like to list with me on a consignment.
 
 >The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
+Brand name and designer clothing and other cool things at affordable prices. You will find pre-loved, gently used and new items in my store.
 
 *Thank You for reading!*
