@@ -1,10 +1,6 @@
 ---
 title: Day one of FaceBook Live
-excerpt: >-
-  The Grand Canyon is a steep-sided canyon carved by the Colorado River in
-  Arizona, United States. The Grand Canyon is 277 miles (446 km) long, up to 18
-  miles (29 km) wide and attains a depth of over a mile (6,093 feet or 1,857
-  meters).
+excerpt: ''
 date: '2020-12-20'
 thumb_img_path: images/knowledgeable-stegosaurus.jpg
 thumb_img_alt: facebook
