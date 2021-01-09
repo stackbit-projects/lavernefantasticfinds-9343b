@@ -12,7 +12,7 @@ sections:
         style: button
         icon_class: Online Store
         new_window: true
-        no_follow: false
+        no_follow: true
         type: action
   - section_id: about
     type: section_content
