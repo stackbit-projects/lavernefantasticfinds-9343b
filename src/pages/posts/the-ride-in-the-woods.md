@@ -1,9 +1,7 @@
 ---
 title: Welcome to the world of consignment and cool things.
 subtitle: A cautionary tale about riding
-excerpt: >-
-  The Ride In The Woods lorem ipsum dolor sit amet, consectetur adipiscing elit,
-  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+excerpt: ' '
 date: '2020-12-20'
 thumb_img_path: images/post2.jpeg
 thumb_img_alt: thank you message
