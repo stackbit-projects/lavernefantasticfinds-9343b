@@ -1,5 +1,5 @@
 ---
-title: ''
+title: Day one of FaceBook Live
 excerpt: >-
   The Shrines of Ise have been celebrated as the prototype of Japanese
   architecture. Largely of wood, traditional housing and many temple buildings
