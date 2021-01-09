@@ -10,7 +10,7 @@ sections:
       - label: Online Store
         url: 'https://www.lavsfantasticfinds.ca/'
         style: button
-        icon_class: lorem-ipsum
+        icon_class: Online Store
         new_window: false
         no_follow: false
         type: action
