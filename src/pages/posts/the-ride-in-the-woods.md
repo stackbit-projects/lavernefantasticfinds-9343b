@@ -6,7 +6,7 @@ excerpt: >-
   sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
 date: '2020-12-20'
 thumb_img_path: images/post2.jpeg
-thumb_img_alt: logo
+thumb_img_alt: thank you message
 content_img_path: images/scientific-goose.png
 content_img_alt: logo
 template: post
