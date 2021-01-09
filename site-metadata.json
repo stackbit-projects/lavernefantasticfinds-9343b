@@ -63,7 +63,7 @@
                 "label": "WEB",
                 "url": "https://www.lavsfantasticfinds.ca/",
                 "style": "icon",
-                "icon_class": "fa-star",
+                "icon_class": "fa-dev",
                 "new_window": true,
                 "no_follow": true
             }
