@@ -7,7 +7,7 @@
         "tagline": "FANTASTIC FINDS",
         "profile_img": "images/lav.jpg",
         "profile_img_alt": "laverne avatar",
-        "background": "dark",
+        "background": "light",
         "has_nav": true,
         "nav_links": [
             {
