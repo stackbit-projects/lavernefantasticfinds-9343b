@@ -70,7 +70,18 @@
         ]
     },
     "footer": {
-        "content": "&copy; LaVerne's Fantastic Finds"
+        "content": "&copy; LaVerne's Fantastic Finds",
+        "links": [
+            {
+                "label": "lorem-ipsum",
+                "url": "lorem-ipsum",
+                "style": "link",
+                "icon_class": "lorem-ipsum",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            }
+        ]
     },
     "title": "LaVerne's Fantastic Finds",
     "favicon": "images/LOGO.png"
