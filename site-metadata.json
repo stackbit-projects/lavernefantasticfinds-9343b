@@ -43,7 +43,8 @@
                 "url": "https://www.instagram.com/lavernesfantasticfinds/",
                 "style": "icon",
                 "icon_class": "fa-instagram",
-                "new_window": true
+                "new_window": true,
+                "no_follow": true
             },
             {
                 "label": "WEB",
