@@ -7,7 +7,7 @@ sections:
     title: Welcome to La Verne's Blog.
     content: Follow my blog and keep updated!
     actions:
-      - label: 'Online '
+      - label: Online Store
         url: lorem-ipsum
         style: link
         icon_class: lorem-ipsum
