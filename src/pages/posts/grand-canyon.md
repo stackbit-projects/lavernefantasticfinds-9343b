@@ -9,6 +9,7 @@ thumb_img_alt: facebook
 content_img_path: images/pleasant-squid.jpg
 content_img_alt: snow globe
 template: post
+canonical_url: live
 ---
 Operating a Consignment store during a world wide pandemic is not an easy thing to do. 
 
