@@ -1,6 +1,8 @@
 ---
 title: Day one of FaceBook Live
-excerpt: ''
+excerpt: >-
+  Operating a Consignment store during a world wide pandemic is not an easy
+  thing to do. 
 date: '2020-12-20'
 thumb_img_path: images/knowledgeable-stegosaurus.jpg
 thumb_img_alt: facebook
