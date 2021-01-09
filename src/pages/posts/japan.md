@@ -15,9 +15,26 @@ subtitle: >-
   Operating a Consignment store during a world wide pandemic is not an easy
   thing to do. 
 ---
+Operating a Consignment store during a world wide pandemic is not an easy thing to do. 
 
-**A Weekend in Japan** vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.
+Most consignment store shoppers are not used to shopping online.  It's one of  those shopping outings that is an in person experience.  Browsing the racks and shelves and finding that one amazing deal that makes your day.  Finding that item that you didn't leave the house knowing you wanted.  
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia ac eu interdum placerat placerat arcu commodo lobortis adipiscing semper ornare pellentesque.
+Today was my first attempt at a FaceBook live video where I am show casing some of the items in the store.  My theory being if my customers can not come to me I will go to them.  
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet blandit adipiscing arcu ante.
+I had 8 people watching as I went through about 15 of my favorite cold weather items.  Hey, it's a start right?  
+
+For most of us trying to stay afloat during a mandatory provincial shutdown doing something is better than doing nothing.  There are at least 18 more days to go until I am able to allow instore shopping and I will do everything I can to keep myself busy.  Coming into the store every day gives me a sense of purpose. 
+
+On my list of things to do over the next few weeks is to really promote my new website and to generate some online sales. 
+
+
+
+Now for my FIND OF THE DAY! 
+
+A customer brought in this amazing Care Bear snow globe that is also a music box.  It plays You are my Sunshine.  This is definitely a collectors item and I am positive someone will be just as excited to see it as I was.
+
+Thanks for stopping by.  
+
+Have a super day!!!! 
+
+
