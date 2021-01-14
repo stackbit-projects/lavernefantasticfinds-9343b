@@ -1,5 +1,5 @@
 ---
-title: Day one of FaceBook Live
+title: Facebook
 excerpt: >-
   Operating a Consignment store during a world wide pandemic is not an easy
   thing to do. 
